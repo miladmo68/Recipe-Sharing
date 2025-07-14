@@ -3,6 +3,7 @@
 A full-stack app to create, view, and organize recipes.
 
 ---
+<img width="1920" height="869" alt="Recipe Sharing" src="https://github.com/user-attachments/assets/d6b3addf-46de-45a3-8397-92c78a3f260e" />
 
 ## 📦 Stack
 - React 18 + Vite
